@@ -2,3 +2,8 @@
 //= link_directory ../stylesheets .css
 //= link_tree ../../javascript .js
 //= link_tree ../../../vendor/javascript .js
+//= require rails-ujs
+//=require jquery
+//= bootstrap-sprockets
+//=require jquery_ujs
+//=require_tree .
